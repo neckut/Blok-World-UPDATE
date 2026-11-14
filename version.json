@@ -1,0 +1,8 @@
+{
+	"mandatory": true,
+	"notes": "Update baru tersedia.",
+	"sha256": "1be1cb912dc3ec23ba4046d303a7a32c22b2a4c6a6537b3b69c5ba5ce705f20a",
+	"sig": "TwpBPMQY6uf8OIDxal1cvMaPpoB7cEodmlThmolNK45BFkakB/LTREMThtXMhYBgUR3P4LCP1KVydWTdAS6xEpPZqiEdFr6qULvmgfT26n+7kX3Bo80arllNqA1R6W7Z3HYAeCywro2XXiTX1zqDa/BhBU3l1ytBeKhAbwaNY76UsP7EgrfJG4ISHivaHclxquqMXOjgR2WzWhRonQY7XOMxOis1VBsZE3kM5V5SNHiQ3wB9qULtx7jemBWFxa58ubCpsl2TGnE2Hd4kIwmg/WgmVvmBal4G1XFwTmP7ECJYF3sXA2gYDGYkg8MtpzSG1s21mRo8ZQneYMdmX7YLKg==",
+	"url": "https://raw.githubusercontent.com/neckut/Blok-World-UPDATE/main/patch_v1.pck",
+	"version": 1
+}
