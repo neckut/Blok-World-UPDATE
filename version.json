@@ -1,8 +1,8 @@
 {
 	"mandatory": true,
 	"notes": "Update baru tersedia.",
-	"sha256": "b53d9ab29685ccc318e601aa56cabdf6179d42dc2128cc7d1e1c1e9b53519ec7",
-	"sig": "S1FREgn4fjEDY1OPB3Ft65XoP0IrTgcCmYTytKHwLoQ0lXQgvxnWoT+GwTUTIflaX3sAY8XGIdq5PoKvjgzh0f9R0JMLz4AkOgcknSm7ARGENC+6cOslPryPR3r5j1lUPih+bzEG0tzKW/SjHEWAdGVHQocWyEgKxW4NxrIpvSeDpPBrJv5HzHw0hp+3Qt4dLIx/WAe0X60Xw1SCgT/T6KsEEoJC7cA+ZcXrFh8JZyg56D7OPbv+coMVywq88d063aMZSJYwn09y8FJ+1D5hxow0n01v+CVUamXpT5tuohJqlUEYSYlKEWBEoaQCzuQNzyikuUVb1u6S4YKYUh2mug==",
-	"url": "https://raw.githubusercontent.com/neckut/Blok-World-UPDATE/main/patch_v18.pck",
-	"version": 18
+	"sha256": "764709f6a8eb8614e2d29e0368815b25ff97404b6887d67ec4275ffb617ff497",
+	"sig": "YvoDFH625Ig+/GXfUp2euyQdxKDR3NOrZwnYZFtIbBfzXFZK6ammQMxOu0LhCQZON1wX2j/1hoc32D/bVVdo6c9Rtaar5XPWHfW1K4fj2OONHQtp13ersA3QI5UowkXLdM9ZWYHtZK5Ckj9gOIJ7fL4NFrQGIQjGwGmLnhQb4h5FVK5kt5TcxFr9URfpq0d2KLGKikiRYj6OItsUkORXhLHGB6QxcBRV+n2d6839zbqexKmL7NCEz6s7Ja7NJBfCN4Bvjs8zluXFriiJt4gVu23BQAy/49/ZwtUWFvot426TlIRBpoMhRpuOavv05yDCDlSDcTaZyeCRLHLHCKE7NQ==",
+	"url": "https://raw.githubusercontent.com/neckut/Blok-World-UPDATE/main/patch_v19.pck",
+	"version": 19
 }
